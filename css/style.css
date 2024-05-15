@@ -13,6 +13,12 @@ body {
     font-family: Roboto, sans-serif
 }
 
+.section {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(7,47,146,1) 88%, rgba(0,212,255,1) 99%);
+
+}
+
 /* sidebar */
 .side_bar{
     background-color: #000;
@@ -20,6 +26,10 @@ body {
 
 }
 
+/* .container {
+    box-shadow: var(--falcon-box-shadow);
+
+} */
 
 .card {
     border: 0 solid var(--falcon-card-border-color);
