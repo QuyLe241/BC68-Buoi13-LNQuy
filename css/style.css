@@ -95,14 +95,6 @@ body {
     padding: 20px
 }
 
-.btn-tabs::before {
-    content: "📒"
-}
-
-.btn-tabs.active::before {
-    content: "📖"
-}
-
 #v-pills-tabContent .tab-pane {
     padding: 20px
 }
@@ -153,10 +145,3 @@ body {
     box-shadow: 8px 8px 16px #d1d9e6, -8px -8px 16px #f9f9f9;
 
 }
-/* 
-.style_btn {
-    width: 100vw;
-    display: flex;
-    justify-content: center;
-
-} */
